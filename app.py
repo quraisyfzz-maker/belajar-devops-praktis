@@ -1,1 +1,1 @@
-versi_aplikasi=1 
+versi_aplikasi=2 
