@@ -1,1 +1,1 @@
-versi_aplikasi=3 
+﻿print("Halo! Script Python ini berhasil dieksekusi oleh robot CI!")
